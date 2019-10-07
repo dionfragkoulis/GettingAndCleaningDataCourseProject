@@ -1,3 +1,3 @@
-### GettingAndCleaningDataCourseProject
-## Repository for Course Project of "Getting And Cleaning Data" course
+## GettingAndCleaningDataCourseProject
+#### Repository for Course Project of "Getting And Cleaning Data" course
 
