@@ -1,3 +1,7 @@
-## GettingAndCleaningDataCourseProject
-#### Repository for Course Project of "Getting And Cleaning Data" course
+The repository contains the following files:
 
+* **tidyData.csv**
+    sfsdfgsdf
+
+* **README.md**
+    This file
