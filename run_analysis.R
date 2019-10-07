@@ -47,4 +47,4 @@ tidyData <- totalData %>%
             summarise_all(mean)
 
 ## Export data to file
-write.table(tidyData, "tidyData.csv", row.names = F)
+write.table(tidyData, "tidyData.txt", row.names = F)

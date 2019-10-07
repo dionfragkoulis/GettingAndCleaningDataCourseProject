@@ -1,4 +1,4 @@
-### Code book for tidyData.csv
+### Code book for tidyData.txt
 
 * The process followed includes the steps below:
 
@@ -16,7 +16,7 @@
 	* **totalData** variable names were cleansed in order to omit brackets and replace dashes with underscores
 	* **totalData** are grouped by activtiy and by subject and then summarized to produced the mean for each column (by activity and by subject) and a new tidy dataset is generated (**tidyData**)
 	
-* The **tidyData.csv** file contains the following variables:
+* The **tidyData.txt** file contains the following variables:
 
 	Variable | Description
 	---------|-------------

@@ -3,7 +3,7 @@
 This repository is used to store files related to the course project of the "Getting and Cleaning Data" course included in the "Data Science Specialization".
 The repository contains the following files:
 
-* **tidyData.csv**
+* **tidyData.txt**
     The exported tidy dataset containing only the average of each variable for each activity and each subject. The file has appropriate variables labeling
 
 * **CodeBook.md**
@@ -34,7 +34,7 @@ The repository contains the following files:
 		* activityTypes
 	1. Clean variable names (remove brackets and replace dashes with underscores) from the new dataset
 	1. Create a new dataset (tidyData) by grouping totalData by subjects and activities and then summarize it to calculate the mean for each variable (by subject and by activity)
-	1. Write the tidy dataset to a file (tidyData.csv)
+	1. Write the tidy dataset to a file (tidyData.txt)
 	
 * **README.md**
     This file (obviously)
